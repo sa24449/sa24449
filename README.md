@@ -82,13 +82,4 @@
  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sa24449&theme=tokyonight&show_icons=true" alt="sa24449" /></p>
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
- <!--START_SECTION:activity-->
- 
- 
- <!--END_SECTION:activity-->
-
-</details>
