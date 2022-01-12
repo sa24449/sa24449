@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: sa24449/github-activity-readme@master
+      - uses: sa24449/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ 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 }}
