@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/sagaranand99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagaranand99" height="30" width="40" />
 </a>
-<a href="https://dev.to/SagarAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagaranand99" height="30" width="40" />
+<a href="https://devfolio.co/@SagarAnand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagaranand99" height="30" width="40" />
 </a>
 <a href="https://twitter.com/sagaran61717220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagaran61717220" height="30" width="40" />
 </a>
