@@ -7,9 +7,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-anand-6ba504194)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SagarAn61717220?color=1DA1F2&label=Sagar%20Anand&logo=twitter&style=for-the-badge)](https://twitter.com/SagarAn61717220)
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Django,Javascript**
+- 🌱 I’m currently learning **React,Javascript**
 
 - 💬 Ask me about **Python, Java & Django**
 
